@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Every Day Is Halloween [2010 Version][Version].mp3";		
+f[2]	= "02 Jesus Built My Hotrod [Powerman 5000 Remix].mp3";		
+f[3]	= "03 Sweet Dreams (Are Made of This).mp3";		
+f[4]	= "04 Every Day Is Halloween [Razed In Black Remix].mp3";		
+f[5]	= "05 Thunderstruck [Electro Remix].mp3";		
+f[6]	= "06 N.W.O. [2010 Version][Version].mp3";		
+f[7]	= "07 Stigmata [Psychopomps Remix].mp3";		
+f[8]	= "08 Every Day Is Halloween [Alexis K Dubstep Remix].mp3";		
+f[9]	= "09 Khyber Pass [2010 Version][Version].mp3";		
+f[10]	= "10 Every Day Is Halloween [Le?ther Strip Remix].mp3";		
+f[11]	= "11 Stigmata [Implant Remix].mp3";		
+f[12]	= "12 Jesus Built My Hotrod [2010 Version][Version].mp3";		
+f[13]	= "13 Paint It Black.mp3";		
+f[14]	= "14 Stigmata [Angelspit Industrial Remix].mp3";		
+f[15]	= "15 Every Day Is Halloween [-][Original Version][Version].mp3";		
